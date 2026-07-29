@@ -1,474 +1,474 @@
-match_id,date,season,batting_team,opponent,venue,over,ball,bowler,batter_runs,total_runs,is_wicket,dismissal_kind,arm,bowl_type
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",0,4,SN Thakur,6,6,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",0,5,SN Thakur,1,1,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,2,Avesh Khan,6,6,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,3,Avesh Khan,1,1,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,6,Avesh Khan,4,4,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,4,SN Thakur,0,0,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,5,SN Thakur,1,1,False,,right,pace
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",3,3,DS Rathi,0,0,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",3,4,DS Rathi,0,0,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",3,5,DS Rathi,1,1,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,1,AK Markram,1,1,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,6,AK Markram,0,0,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,1,Ravi Bishnoi,0,0,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,2,Ravi Bishnoi,4,4,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,3,Ravi Bishnoi,1,1,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,6,Ravi Bishnoi,0,0,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",7,2,DS Rathi,1,1,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",7,6,DS Rathi,6,6,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,2,AK Markram,1,1,False,,right,spin
-1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,4,AK Markram,0,0,True,stumped,right,spin
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,4,B Kumar,0,0,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,5,B Kumar,1,1,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,1,Yash Dayal,0,0,False,,left,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,2,Yash Dayal,0,1,False,,left,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,3,Yash Dayal,1,1,False,,left,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,1,B Kumar,0,0,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,2,B Kumar,6,6,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,3,B Kumar,0,0,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,4,B Kumar,0,0,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,5,B Kumar,2,2,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,6,B Kumar,0,0,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",4,1,B Kumar,6,6,False,,right,pace
-1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",4,2,B Kumar,0,0,True,bowled,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,2,Mohammed Siraj,0,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,3,Mohammed Siraj,0,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,4,Mohammed Siraj,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,5,Mohammed Siraj,6,6,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,6,Mohammed Siraj,1,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,8,Mohammed Siraj,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,2,I Sharma,1,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,1,Mohammed Siraj,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,2,Mohammed Siraj,1,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,1,I Sharma,6,6,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,2,I Sharma,6,6,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,3,I Sharma,4,4,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,4,I Sharma,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,5,I Sharma,6,6,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,6,I Sharma,0,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,7,I Sharma,0,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,8,I Sharma,4,4,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,3,Washington Sundar,6,6,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,4,Washington Sundar,0,0,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,5,Washington Sundar,6,6,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,6,Washington Sundar,4,4,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,2,M Prasidh Krishna,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,3,M Prasidh Krishna,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,4,M Prasidh Krishna,1,1,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,1,Rashid Khan,0,0,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,2,Rashid Khan,0,1,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,4,Rashid Khan,1,1,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,6,Rashid Khan,0,0,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",7,6,M Prasidh Krishna,6,6,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",8,2,Rashid Khan,0,0,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",8,3,Rashid Khan,4,4,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",8,4,Rashid Khan,1,1,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,1,Karim Janat,6,6,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,2,Karim Janat,4,4,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,3,Karim Janat,6,6,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,4,Karim Janat,4,4,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,5,Karim Janat,4,4,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,6,Karim Janat,6,6,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",10,2,Rashid Khan,6,6,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",10,3,Rashid Khan,1,1,False,,right,spin
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",11,4,M Prasidh Krishna,0,0,False,,right,pace
-1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",11,5,M Prasidh Krishna,0,0,True,bowled,right,pace
-1473487,2025-05-01,2025,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",0,3,DL Chahar,0,0,False,,right,pace
-1473487,2025-05-01,2025,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",0,4,DL Chahar,0,0,True,caught,right,pace
-1473490,2025-05-04,2025,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,3,VG Arora,4,4,False,,right,pace
-1473490,2025-05-04,2025,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,4,VG Arora,0,0,True,caught,right,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,1,M Jansen,0,0,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,2,M Jansen,0,1,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,3,M Jansen,6,6,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,4,M Jansen,0,0,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,5,M Jansen,4,4,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,6,M Jansen,0,0,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,7,M Jansen,6,6,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,1,Arshdeep Singh,4,4,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,2,Arshdeep Singh,0,0,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,3,Arshdeep Singh,0,0,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,4,Arshdeep Singh,0,0,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,5,Arshdeep Singh,6,6,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,6,Arshdeep Singh,6,6,False,,left,pace
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",4,3,Harpreet Brar,4,4,False,,left,spin
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",4,4,Harpreet Brar,4,4,False,,left,spin
-1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",4,5,Harpreet Brar,0,0,True,caught,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",0,6,KK Ahmed,0,0,False,,left,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",1,6,A Kamboj,0,0,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",3,2,A Kamboj,1,1,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",4,2,KK Ahmed,4,4,False,,left,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",4,3,KK Ahmed,1,1,False,,left,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",5,3,A Kamboj,1,1,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",5,6,A Kamboj,4,4,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",6,2,R Ashwin,1,1,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",6,5,R Ashwin,0,0,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",6,6,R Ashwin,0,0,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,2,Noor Ahmad,1,1,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,4,Noor Ahmad,6,6,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,5,Noor Ahmad,4,4,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,6,Noor Ahmad,4,4,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",8,2,M Pathirana,0,0,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",8,3,M Pathirana,1,1,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",9,3,R Ashwin,1,1,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",9,6,R Ashwin,1,1,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,1,RA Jadeja,1,1,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,3,RA Jadeja,6,6,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,4,RA Jadeja,0,0,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,5,RA Jadeja,6,6,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,6,RA Jadeja,1,1,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,1,Noor Ahmad,2,2,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,2,Noor Ahmad,1,1,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,5,Noor Ahmad,0,1,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,6,Noor Ahmad,6,6,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,7,Noor Ahmad,0,0,False,,left,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,3,M Pathirana,1,1,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,5,M Pathirana,0,1,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,6,M Pathirana,1,1,False,,right,pace
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,1,R Ashwin,1,1,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,4,R Ashwin,1,1,False,,right,spin
-1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,6,R Ashwin,0,0,True,caught,right,spin
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",0,3,MJ Henry,4,4,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",0,4,MJ Henry,6,6,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",0,5,MJ Henry,1,1,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",1,1,KK Ahmed,0,1,False,,left,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",1,6,KK Ahmed,4,4,False,,left,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",2,3,MJ Henry,1,1,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",2,5,MJ Henry,6,6,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",2,6,MJ Henry,1,1,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",3,1,KK Ahmed,1,1,False,,left,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,3,A Kamboj,4,4,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,4,A Kamboj,4,4,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,5,A Kamboj,0,0,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,6,A Kamboj,6,6,False,,right,pace
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",5,4,Noor Ahmad,6,6,False,,left,spin
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",5,5,Noor Ahmad,6,6,False,,left,spin
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",5,6,Noor Ahmad,2,2,False,,left,spin
-1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",6,2,A Kamboj,0,0,True,caught,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,2,Mohammed Siraj,4,4,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,3,Mohammed Siraj,0,0,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,4,Mohammed Siraj,4,4,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,5,Mohammed Siraj,1,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,1,K Rabada,1,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,3,K Rabada,0,0,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,4,K Rabada,0,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,5,K Rabada,0,0,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,6,K Rabada,4,4,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,7,K Rabada,0,0,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,1,K Rabada,0,0,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,2,K Rabada,0,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,3,K Rabada,4,4,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,4,K Rabada,1,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,1,Ashok Sharma,4,4,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,2,Ashok Sharma,6,6,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,3,Ashok Sharma,1,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",5,1,M Prasidh Krishna,1,1,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",5,6,M Prasidh Krishna,0,0,False,,right,pace
-1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",6,2,Rashid Khan,0,0,True,caught,right,spin
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,1,JJ Bumrah,6,6,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,2,JJ Bumrah,1,1,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,4,JJ Bumrah,6,6,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,5,JJ Bumrah,0,0,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,6,JJ Bumrah,0,0,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,4,TA Boult,6,6,False,,left,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,5,TA Boult,0,1,False,,left,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,6,TA Boult,1,1,False,,left,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",3,3,HH Pandya,1,1,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",3,5,HH Pandya,1,1,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,1,SN Thakur,6,6,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,2,SN Thakur,4,4,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,3,SN Thakur,1,1,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,5,SN Thakur,6,6,False,,right,pace
-1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,6,SN Thakur,0,0,True,caught,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,3,B Kumar,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,4,B Kumar,0,0,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,5,B Kumar,0,0,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,6,B Kumar,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,1,Abhinandan Singh,0,0,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,2,Abhinandan Singh,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,3,Abhinandan Singh,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,4,Abhinandan Singh,1,1,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,6,Abhinandan Singh,6,6,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,3,JR Hazlewood,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,4,JR Hazlewood,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,5,JR Hazlewood,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,6,JR Hazlewood,6,6,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,2,B Kumar,6,6,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,3,B Kumar,6,6,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,4,B Kumar,0,0,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,5,B Kumar,0,0,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,6,B Kumar,4,4,False,,right,pace
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",6,1,KH Pandya,1,1,False,,left,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",6,4,KH Pandya,1,1,False,,left,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",6,6,KH Pandya,6,6,False,,left,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,3,TH David,0,0,False,,right,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,4,TH David,6,6,False,,right,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,5,TH David,6,6,False,,right,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,6,TH David,1,1,False,,right,spin
-1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",8,1,KH Pandya,0,0,True,caught,left,spin
-1529264,2026-04-13,2026,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,2,PP Hinge,0,0,True,caught,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,2,VG Arora,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,1,Kartik Tyagi,4,4,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,2,Kartik Tyagi,0,0,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,3,Kartik Tyagi,4,4,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,4,Kartik Tyagi,0,0,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,5,Kartik Tyagi,0,0,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,6,Kartik Tyagi,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",2,1,C Green,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,1,VG Arora,4,4,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,2,VG Arora,4,4,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,3,VG Arora,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,5,VG Arora,4,4,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,6,VG Arora,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,1,SP Narine,0,0,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,2,SP Narine,6,6,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,3,SP Narine,0,0,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,4,SP Narine,0,0,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,5,SP Narine,0,0,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,6,SP Narine,0,0,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,4,C Green,6,6,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,5,C Green,0,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,6,C Green,0,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,7,C Green,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",6,1,SP Narine,1,1,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",6,6,SP Narine,0,0,False,,left,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,3,Kartik Tyagi,4,4,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,4,Kartik Tyagi,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,6,Kartik Tyagi,1,1,False,,right,pace
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",8,1,CV Varun,1,1,False,,right,spin
-1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",8,4,CV Varun,0,0,True,caught,right,spin
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,2,Prince Yadav,4,4,False,,right,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,3,Prince Yadav,4,4,False,,right,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,4,Prince Yadav,0,0,False,,right,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,5,Prince Yadav,0,0,False,,right,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,6,Prince Yadav,0,0,False,,right,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,1,Mohsin Khan,0,0,False,,left,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,2,Mohsin Khan,0,0,False,,left,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,3,Mohsin Khan,0,0,False,,left,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,4,Mohsin Khan,0,0,False,,left,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,5,Mohsin Khan,0,0,False,,left,pace
-1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,6,Mohsin Khan,0,0,True,caught,left,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,2,PP Hinge,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,3,PP Hinge,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,4,PP Hinge,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,5,PP Hinge,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,6,PP Hinge,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",1,6,PJ Cummins,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",2,6,E Malinga,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",3,1,PJ Cummins,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,1,E Malinga,4,4,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,2,E Malinga,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,3,E Malinga,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,4,E Malinga,2,2,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,5,E Malinga,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,6,E Malinga,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",5,5,Sakib Hussain,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",5,6,Sakib Hussain,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",6,1,Shivang Kumar,1,1,False,,left,spin
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",6,5,Shivang Kumar,6,6,False,,left,spin
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",6,6,Shivang Kumar,4,4,False,,left,spin
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",7,4,PJ Cummins,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",7,6,PJ Cummins,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,2,Sakib Hussain,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,3,Sakib Hussain,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,4,Sakib Hussain,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,6,Sakib Hussain,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,2,PP Hinge,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,4,PP Hinge,4,4,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,5,PP Hinge,0,0,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,6,PP Hinge,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",10,1,E Malinga,1,1,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,4,Shivang Kumar,4,4,False,,left,spin
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,5,Shivang Kumar,6,6,False,,left,spin
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,6,Shivang Kumar,0,0,False,,left,spin
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,2,Sakib Hussain,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,3,Sakib Hussain,4,4,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,4,Sakib Hussain,6,6,False,,right,pace
-1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,5,Sakib Hussain,0,0,True,lbw,right,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,2,Arshdeep Singh,0,0,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,3,Arshdeep Singh,0,0,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,4,Arshdeep Singh,6,6,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,5,Arshdeep Singh,4,4,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,6,Arshdeep Singh,4,4,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,2,LH Ferguson,0,0,False,,right,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,3,LH Ferguson,0,0,False,,right,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,4,LH Ferguson,4,4,False,,right,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,5,LH Ferguson,6,6,False,,right,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,6,LH Ferguson,6,6,False,,right,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,3,M Jansen,0,0,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,4,M Jansen,6,6,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,5,M Jansen,0,0,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,6,M Jansen,1,1,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,1,Arshdeep Singh,0,1,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,Arshdeep Singh,6,6,False,,left,pace
-1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,Arshdeep Singh,0,0,True,caught,left,pace
-1529286,2026-05-01,2026,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",1,4,KA Jamieson,4,4,False,,right,pace
-1529286,2026-05-01,2026,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",1,5,KA Jamieson,0,0,True,bowled,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,2,Mohammed Siraj,6,6,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,3,Mohammed Siraj,0,0,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,4,Mohammed Siraj,2,2,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,5,Mohammed Siraj,0,0,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,6,Mohammed Siraj,0,1,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,7,Mohammed Siraj,1,1,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,1,K Rabada,2,2,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,2,K Rabada,6,6,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,3,K Rabada,6,6,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,4,K Rabada,0,0,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,5,K Rabada,0,0,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,6,K Rabada,1,1,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,1,Mohammed Siraj,4,4,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,2,Mohammed Siraj,0,0,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,3,Mohammed Siraj,4,4,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,4,Mohammed Siraj,4,4,False,,right,pace
-1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,5,Mohammed Siraj,0,0,True,caught,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",1,1,L Ngidi,6,6,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",1,2,L Ngidi,1,1,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,1,MA Starc,0,1,False,,left,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,2,MA Starc,4,4,False,,left,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,3,MA Starc,0,0,False,,left,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,4,MA Starc,6,6,False,,left,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,5,MA Starc,1,1,False,,left,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",3,1,L Ngidi,4,4,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",3,2,L Ngidi,0,0,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",3,3,L Ngidi,1,1,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,1,T Vijay,4,4,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,2,T Vijay,0,0,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,3,T Vijay,4,4,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,4,T Vijay,0,0,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,5,T Vijay,4,4,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,6,T Vijay,6,6,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",5,2,Mukesh Kumar,1,1,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,1,T Vijay,1,1,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,3,T Vijay,1,1,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,6,T Vijay,1,1,False,,right,spin
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",7,1,M Tiwari,0,1,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",7,2,M Tiwari,1,1,False,,right,pace
-1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",7,4,M Tiwari,0,0,True,caught,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,1,Mohsin Khan,0,0,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,2,Mohsin Khan,0,0,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,3,Mohsin Khan,1,1,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,6,Mohsin Khan,0,0,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,3,MP Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,4,MP Yadav,4,4,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,5,MP Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,6,MP Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,3,MP Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,4,MP Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,5,MP Yadav,6,6,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,6,MP Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,3,Prince Yadav,6,6,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,4,Prince Yadav,4,4,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,5,Prince Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,6,Prince Yadav,4,4,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,1,Akash Singh,6,6,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,2,Akash Singh,4,4,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,3,Akash Singh,0,0,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,4,Akash Singh,4,4,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,5,Akash Singh,6,6,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,6,Akash Singh,0,1,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,7,Akash Singh,0,1,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,8,Akash Singh,4,4,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",9,2,DS Rathi,1,1,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",9,4,DS Rathi,1,1,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",9,6,DS Rathi,6,6,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,2,Prince Yadav,0,1,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,3,Prince Yadav,1,1,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,5,Prince Yadav,0,0,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,6,Prince Yadav,6,6,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,7,Prince Yadav,6,6,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",11,5,MP Yadav,6,6,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",11,6,MP Yadav,6,6,False,,right,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,2,DS Rathi,0,0,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,3,DS Rathi,0,0,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,4,DS Rathi,6,6,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,5,DS Rathi,0,0,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,6,DS Rathi,4,4,False,,right,spin
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",13,2,Mohsin Khan,1,1,False,,left,pace
-1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",13,6,Mohsin Khan,0,0,True,caught,left,pace
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",0,3,DL Chahar,1,1,False,,right,pace
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",1,2,WG Jacks,1,1,False,,right,spin
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",1,6,WG Jacks,0,1,False,,right,spin
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",1,7,WG Jacks,0,0,False,,right,spin
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",2,3,DL Chahar,1,1,False,,right,pace
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",3,1,WG Jacks,0,1,False,,right,spin
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",3,2,WG Jacks,1,1,False,,right,spin
-1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",4,1,DL Chahar,0,0,True,caught,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,3,PJ Cummins,0,0,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,4,PJ Cummins,1,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,6,PJ Cummins,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,5,E Malinga,0,0,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,6,E Malinga,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,2,PJ Cummins,4,4,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,3,PJ Cummins,0,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,4,PJ Cummins,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,5,PJ Cummins,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,6,PJ Cummins,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,7,PJ Cummins,1,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,1,Sakib Hussain,0,0,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,Sakib Hussain,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,Sakib Hussain,0,0,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,4,Sakib Hussain,0,0,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,5,Sakib Hussain,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,6,Sakib Hussain,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,3,E Malinga,4,4,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,4,E Malinga,1,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,6,E Malinga,0,0,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",5,5,PP Hinge,1,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,1,Sakib Hussain,1,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,5,Sakib Hussain,4,4,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,6,Sakib Hussain,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,2,PP Hinge,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,3,PP Hinge,0,1,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,4,PP Hinge,4,4,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,5,PP Hinge,4,5,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,6,PP Hinge,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,7,PP Hinge,6,6,False,,right,pace
-1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,8,PP Hinge,0,0,True,caught,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,2,Mohammed Siraj,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,3,Mohammed Siraj,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,6,Mohammed Siraj,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,1,Mohammed Siraj,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,2,Mohammed Siraj,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,3,Mohammed Siraj,2,2,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,4,Mohammed Siraj,2,2,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,5,Mohammed Siraj,0,5,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,6,Mohammed Siraj,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,7,Mohammed Siraj,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,K Rabada,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,K Rabada,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,4,K Rabada,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,5,K Rabada,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,6,K Rabada,6,6,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,4,Mohammed Siraj,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,5,Mohammed Siraj,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,6,Mohammed Siraj,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,1,Washington Sundar,1,1,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,3,Washington Sundar,1,1,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,5,Washington Sundar,1,1,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,7,JO Holder,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",8,4,Rashid Khan,6,6,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",8,5,Rashid Khan,1,1,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",9,1,JO Holder,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",10,1,M Prasidh Krishna,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",10,2,M Prasidh Krishna,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",10,6,M Prasidh Krishna,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",11,6,JO Holder,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,1,M Prasidh Krishna,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,2,M Prasidh Krishna,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,6,M Prasidh Krishna,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,1,K Rabada,6,6,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,2,K Rabada,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,4,K Rabada,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,1,Mohammed Siraj,6,6,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,2,Mohammed Siraj,2,2,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,3,Mohammed Siraj,1,1,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,1,JO Holder,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,2,JO Holder,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,3,JO Holder,6,6,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,4,JO Holder,4,4,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,5,JO Holder,2,2,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,6,JO Holder,0,0,False,,right,pace
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,2,Washington Sundar,6,6,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,3,Washington Sundar,1,1,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,6,Washington Sundar,6,6,False,,right,spin
-1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",17,2,K Rabada,0,0,True,caught,right,pace
+match_id,date,season,batting_team,opponent,venue,over,ball,bowler,batter_runs,total_runs,is_wicket,dismissal_kind,arm,bowl_type,phase
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",0,4,SN Thakur,6,6,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",0,5,SN Thakur,1,1,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,2,Avesh Khan,6,6,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,3,Avesh Khan,1,1,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,6,Avesh Khan,4,4,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,4,SN Thakur,0,0,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,5,SN Thakur,1,1,False,,right,pace,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",3,3,DS Rathi,0,0,False,,right,spin,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",3,4,DS Rathi,0,0,False,,right,spin,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",3,5,DS Rathi,1,1,False,,right,spin,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,1,AK Markram,1,1,False,,right,spin,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,6,AK Markram,0,0,False,,right,spin,powerplay
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,1,Ravi Bishnoi,0,0,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,2,Ravi Bishnoi,4,4,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,3,Ravi Bishnoi,1,1,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",6,6,Ravi Bishnoi,0,0,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",7,2,DS Rathi,1,1,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",7,6,DS Rathi,6,6,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,2,AK Markram,1,1,False,,right,spin,middle
+1473473,2025-04-19,2025,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,4,AK Markram,0,0,True,stumped,right,spin,middle
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,4,B Kumar,0,0,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,5,B Kumar,1,1,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,1,Yash Dayal,0,0,False,,left,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,2,Yash Dayal,0,1,False,,left,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,3,Yash Dayal,1,1,False,,left,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,1,B Kumar,0,0,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,2,B Kumar,6,6,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,3,B Kumar,0,0,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,4,B Kumar,0,0,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,5,B Kumar,2,2,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,6,B Kumar,0,0,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",4,1,B Kumar,6,6,False,,right,pace,powerplay
+1473479,2025-04-24,2025,Rajasthan Royals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",4,2,B Kumar,0,0,True,bowled,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,2,Mohammed Siraj,0,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,3,Mohammed Siraj,0,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,4,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,5,Mohammed Siraj,6,6,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,6,Mohammed Siraj,1,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,8,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,2,I Sharma,1,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,1,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,2,Mohammed Siraj,1,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,1,I Sharma,6,6,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,2,I Sharma,6,6,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,3,I Sharma,4,4,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,4,I Sharma,0,0,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,5,I Sharma,6,6,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,6,I Sharma,0,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,7,I Sharma,0,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,8,I Sharma,4,4,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,3,Washington Sundar,6,6,False,,right,spin,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,4,Washington Sundar,0,0,False,,right,spin,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,5,Washington Sundar,6,6,False,,right,spin,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,6,Washington Sundar,4,4,False,,right,spin,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,2,M Prasidh Krishna,0,0,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,3,M Prasidh Krishna,0,0,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,4,M Prasidh Krishna,1,1,False,,right,pace,powerplay
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,1,Rashid Khan,0,0,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,2,Rashid Khan,0,1,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,4,Rashid Khan,1,1,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,6,Rashid Khan,0,0,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",7,6,M Prasidh Krishna,6,6,False,,right,pace,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",8,2,Rashid Khan,0,0,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",8,3,Rashid Khan,4,4,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",8,4,Rashid Khan,1,1,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,1,Karim Janat,6,6,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,2,Karim Janat,4,4,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,3,Karim Janat,6,6,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,4,Karim Janat,4,4,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,5,Karim Janat,4,4,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",9,6,Karim Janat,6,6,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",10,2,Rashid Khan,6,6,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",10,3,Rashid Khan,1,1,False,,right,spin,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",11,4,M Prasidh Krishna,0,0,False,,right,pace,middle
+1473484,2025-04-28,2025,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",11,5,M Prasidh Krishna,0,0,True,bowled,right,pace,middle
+1473487,2025-05-01,2025,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",0,3,DL Chahar,0,0,False,,right,pace,powerplay
+1473487,2025-05-01,2025,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",0,4,DL Chahar,0,0,True,caught,right,pace,powerplay
+1473490,2025-05-04,2025,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,3,VG Arora,4,4,False,,right,pace,powerplay
+1473490,2025-05-04,2025,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,4,VG Arora,0,0,True,caught,right,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,1,M Jansen,0,0,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,2,M Jansen,0,1,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,3,M Jansen,6,6,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,4,M Jansen,0,0,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,5,M Jansen,4,4,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,6,M Jansen,0,0,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",1,7,M Jansen,6,6,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,1,Arshdeep Singh,4,4,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,2,Arshdeep Singh,0,0,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,3,Arshdeep Singh,0,0,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,4,Arshdeep Singh,0,0,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,5,Arshdeep Singh,6,6,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",3,6,Arshdeep Singh,6,6,False,,left,pace,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",4,3,Harpreet Brar,4,4,False,,left,spin,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",4,4,Harpreet Brar,4,4,False,,left,spin,powerplay
+1473497,2025-05-18,2025,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",4,5,Harpreet Brar,0,0,True,caught,left,spin,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",0,6,KK Ahmed,0,0,False,,left,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",1,6,A Kamboj,0,0,False,,right,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",3,2,A Kamboj,1,1,False,,right,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",4,2,KK Ahmed,4,4,False,,left,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",4,3,KK Ahmed,1,1,False,,left,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",5,3,A Kamboj,1,1,False,,right,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",5,6,A Kamboj,4,4,False,,right,pace,powerplay
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",6,2,R Ashwin,1,1,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",6,5,R Ashwin,0,0,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",6,6,R Ashwin,0,0,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,2,Noor Ahmad,1,1,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,4,Noor Ahmad,6,6,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,5,Noor Ahmad,4,4,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",7,6,Noor Ahmad,4,4,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",8,2,M Pathirana,0,0,False,,right,pace,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",8,3,M Pathirana,1,1,False,,right,pace,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",9,3,R Ashwin,1,1,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",9,6,R Ashwin,1,1,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,1,RA Jadeja,1,1,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,3,RA Jadeja,6,6,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,4,RA Jadeja,0,0,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,5,RA Jadeja,6,6,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",10,6,RA Jadeja,1,1,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,1,Noor Ahmad,2,2,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,2,Noor Ahmad,1,1,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,5,Noor Ahmad,0,1,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,6,Noor Ahmad,6,6,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",11,7,Noor Ahmad,0,0,False,,left,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,3,M Pathirana,1,1,False,,right,pace,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,5,M Pathirana,0,1,False,,right,pace,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,6,M Pathirana,1,1,False,,right,pace,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,1,R Ashwin,1,1,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,4,R Ashwin,1,1,False,,right,spin,middle
+1473500,2025-05-20,2025,Rajasthan Royals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,6,R Ashwin,0,0,True,caught,right,spin,middle
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",0,3,MJ Henry,4,4,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",0,4,MJ Henry,6,6,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",0,5,MJ Henry,1,1,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",1,1,KK Ahmed,0,1,False,,left,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",1,6,KK Ahmed,4,4,False,,left,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",2,3,MJ Henry,1,1,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",2,5,MJ Henry,6,6,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",2,6,MJ Henry,1,1,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",3,1,KK Ahmed,1,1,False,,left,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,3,A Kamboj,4,4,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,4,A Kamboj,4,4,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,5,A Kamboj,0,0,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",4,6,A Kamboj,6,6,False,,right,pace,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",5,4,Noor Ahmad,6,6,False,,left,spin,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",5,5,Noor Ahmad,6,6,False,,left,spin,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",5,6,Noor Ahmad,2,2,False,,left,spin,powerplay
+1527676,2026-03-30,2026,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",6,2,A Kamboj,0,0,True,caught,right,pace,middle
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,2,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,3,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,4,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,5,Mohammed Siraj,1,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,1,K Rabada,1,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,3,K Rabada,0,0,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,4,K Rabada,0,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,5,K Rabada,0,0,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,6,K Rabada,4,4,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,7,K Rabada,0,0,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,1,K Rabada,0,0,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,2,K Rabada,0,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,3,K Rabada,4,4,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,4,K Rabada,1,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,1,Ashok Sharma,4,4,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,2,Ashok Sharma,6,6,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,3,Ashok Sharma,1,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",5,1,M Prasidh Krishna,1,1,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",5,6,M Prasidh Krishna,0,0,False,,right,pace,powerplay
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",6,2,Rashid Khan,0,0,True,caught,right,spin,middle
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,1,JJ Bumrah,6,6,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,2,JJ Bumrah,1,1,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,4,JJ Bumrah,6,6,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,5,JJ Bumrah,0,0,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",1,6,JJ Bumrah,0,0,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,4,TA Boult,6,6,False,,left,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,5,TA Boult,0,1,False,,left,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,6,TA Boult,1,1,False,,left,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",3,3,HH Pandya,1,1,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",3,5,HH Pandya,1,1,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,1,SN Thakur,6,6,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,2,SN Thakur,4,4,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,3,SN Thakur,1,1,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,5,SN Thakur,6,6,False,,right,pace,powerplay
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",4,6,SN Thakur,0,0,True,caught,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,3,B Kumar,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,4,B Kumar,0,0,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,5,B Kumar,0,0,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,6,B Kumar,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,1,Abhinandan Singh,0,0,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,2,Abhinandan Singh,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,3,Abhinandan Singh,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,4,Abhinandan Singh,1,1,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,6,Abhinandan Singh,6,6,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,3,JR Hazlewood,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,4,JR Hazlewood,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,5,JR Hazlewood,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,6,JR Hazlewood,6,6,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,2,B Kumar,6,6,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,3,B Kumar,6,6,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,4,B Kumar,0,0,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,5,B Kumar,0,0,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",4,6,B Kumar,4,4,False,,right,pace,powerplay
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",6,1,KH Pandya,1,1,False,,left,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",6,4,KH Pandya,1,1,False,,left,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",6,6,KH Pandya,6,6,False,,left,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,3,TH David,0,0,False,,right,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,4,TH David,6,6,False,,right,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,5,TH David,6,6,False,,right,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",7,6,TH David,1,1,False,,right,spin,middle
+1527689,2026-04-10,2026,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",8,1,KH Pandya,0,0,True,caught,left,spin,middle
+1529264,2026-04-13,2026,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,2,PP Hinge,0,0,True,caught,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,2,VG Arora,1,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,1,Kartik Tyagi,4,4,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,2,Kartik Tyagi,0,0,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,3,Kartik Tyagi,4,4,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,4,Kartik Tyagi,0,0,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,5,Kartik Tyagi,0,0,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,6,Kartik Tyagi,1,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",2,1,C Green,1,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,1,VG Arora,4,4,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,2,VG Arora,4,4,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,3,VG Arora,1,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,5,VG Arora,4,4,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",3,6,VG Arora,1,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,1,SP Narine,0,0,False,,left,spin,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,2,SP Narine,6,6,False,,left,spin,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,3,SP Narine,0,0,False,,left,spin,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,4,SP Narine,0,0,False,,left,spin,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,5,SP Narine,0,0,False,,left,spin,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,6,SP Narine,0,0,False,,left,spin,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,4,C Green,6,6,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,5,C Green,0,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,6,C Green,0,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,7,C Green,1,1,False,,right,pace,powerplay
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",6,1,SP Narine,1,1,False,,left,spin,middle
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",6,6,SP Narine,0,0,False,,left,spin,middle
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,3,Kartik Tyagi,4,4,False,,right,pace,middle
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,4,Kartik Tyagi,1,1,False,,right,pace,middle
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,6,Kartik Tyagi,1,1,False,,right,pace,middle
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",8,1,CV Varun,1,1,False,,right,spin,middle
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",8,4,CV Varun,0,0,True,caught,right,spin,middle
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,2,Prince Yadav,4,4,False,,right,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,3,Prince Yadav,4,4,False,,right,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,4,Prince Yadav,0,0,False,,right,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,5,Prince Yadav,0,0,False,,right,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,6,Prince Yadav,0,0,False,,right,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,1,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,2,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,3,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,4,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,5,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,6,Mohsin Khan,0,0,True,caught,left,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,2,PP Hinge,0,0,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,3,PP Hinge,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,4,PP Hinge,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,5,PP Hinge,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,6,PP Hinge,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",1,6,PJ Cummins,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",2,6,E Malinga,1,1,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",3,1,PJ Cummins,1,1,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,1,E Malinga,4,4,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,2,E Malinga,0,0,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,3,E Malinga,0,0,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,4,E Malinga,2,2,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,5,E Malinga,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,6,E Malinga,0,0,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",5,5,Sakib Hussain,6,6,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",5,6,Sakib Hussain,1,1,False,,right,pace,powerplay
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",6,1,Shivang Kumar,1,1,False,,left,spin,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",6,5,Shivang Kumar,6,6,False,,left,spin,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",6,6,Shivang Kumar,4,4,False,,left,spin,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",7,4,PJ Cummins,1,1,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",7,6,PJ Cummins,0,0,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,2,Sakib Hussain,0,0,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,3,Sakib Hussain,0,0,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,4,Sakib Hussain,1,1,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",8,6,Sakib Hussain,6,6,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,2,PP Hinge,1,1,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,4,PP Hinge,4,4,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,5,PP Hinge,0,0,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",9,6,PP Hinge,1,1,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",10,1,E Malinga,1,1,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,4,Shivang Kumar,4,4,False,,left,spin,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,5,Shivang Kumar,6,6,False,,left,spin,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,6,Shivang Kumar,0,0,False,,left,spin,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,2,Sakib Hussain,6,6,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,3,Sakib Hussain,4,4,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,4,Sakib Hussain,6,6,False,,right,pace,middle
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",13,5,Sakib Hussain,0,0,True,lbw,right,pace,middle
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,2,Arshdeep Singh,0,0,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,3,Arshdeep Singh,0,0,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,4,Arshdeep Singh,6,6,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,5,Arshdeep Singh,4,4,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,6,Arshdeep Singh,4,4,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,2,LH Ferguson,0,0,False,,right,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,3,LH Ferguson,0,0,False,,right,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,4,LH Ferguson,4,4,False,,right,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,5,LH Ferguson,6,6,False,,right,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,6,LH Ferguson,6,6,False,,right,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,3,M Jansen,0,0,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,4,M Jansen,6,6,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,5,M Jansen,0,0,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,6,M Jansen,1,1,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,1,Arshdeep Singh,0,1,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,Arshdeep Singh,6,6,False,,left,pace,powerplay
+1529283,2026-04-28,2026,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,Arshdeep Singh,0,0,True,caught,left,pace,powerplay
+1529286,2026-05-01,2026,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",1,4,KA Jamieson,4,4,False,,right,pace,powerplay
+1529286,2026-05-01,2026,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",1,5,KA Jamieson,0,0,True,bowled,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,2,Mohammed Siraj,6,6,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,3,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,4,Mohammed Siraj,2,2,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,5,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,6,Mohammed Siraj,0,1,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",0,7,Mohammed Siraj,1,1,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,1,K Rabada,2,2,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,2,K Rabada,6,6,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,3,K Rabada,6,6,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,4,K Rabada,0,0,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,5,K Rabada,0,0,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,6,K Rabada,1,1,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,1,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,2,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,3,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,4,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1529295,2026-05-09,2026,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",2,5,Mohammed Siraj,0,0,True,caught,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",1,1,L Ngidi,6,6,False,,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",1,2,L Ngidi,1,1,False,,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,1,MA Starc,0,1,False,,left,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,2,MA Starc,4,4,False,,left,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,3,MA Starc,0,0,False,,left,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,4,MA Starc,6,6,False,,left,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,5,MA Starc,1,1,False,,left,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",3,1,L Ngidi,4,4,False,,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",3,2,L Ngidi,0,0,False,,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",3,3,L Ngidi,1,1,False,,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,1,T Vijay,4,4,False,,right,spin,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,2,T Vijay,0,0,False,,right,spin,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,3,T Vijay,4,4,False,,right,spin,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,4,T Vijay,0,0,False,,right,spin,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,5,T Vijay,4,4,False,,right,spin,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,6,T Vijay,6,6,False,,right,spin,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",5,2,Mukesh Kumar,1,1,False,,right,pace,powerplay
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,1,T Vijay,1,1,False,,right,spin,middle
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,3,T Vijay,1,1,False,,right,spin,middle
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,6,T Vijay,1,1,False,,right,spin,middle
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",7,1,M Tiwari,0,1,False,,right,pace,middle
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",7,2,M Tiwari,1,1,False,,right,pace,middle
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",7,4,M Tiwari,0,0,True,caught,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,1,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,2,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,3,Mohsin Khan,1,1,False,,left,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",1,6,Mohsin Khan,0,0,False,,left,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,3,MP Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,4,MP Yadav,4,4,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,5,MP Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",2,6,MP Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,3,MP Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,4,MP Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,5,MP Yadav,6,6,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",4,6,MP Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,3,Prince Yadav,6,6,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,4,Prince Yadav,4,4,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,5,Prince Yadav,0,0,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",5,6,Prince Yadav,4,4,False,,right,pace,powerplay
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,1,Akash Singh,6,6,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,2,Akash Singh,4,4,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,3,Akash Singh,0,0,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,4,Akash Singh,4,4,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,5,Akash Singh,6,6,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,6,Akash Singh,0,1,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,7,Akash Singh,0,1,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",8,8,Akash Singh,4,4,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",9,2,DS Rathi,1,1,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",9,4,DS Rathi,1,1,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",9,6,DS Rathi,6,6,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,2,Prince Yadav,0,1,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,3,Prince Yadav,1,1,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,5,Prince Yadav,0,0,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,6,Prince Yadav,6,6,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",10,7,Prince Yadav,6,6,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",11,5,MP Yadav,6,6,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",11,6,MP Yadav,6,6,False,,right,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,2,DS Rathi,0,0,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,3,DS Rathi,0,0,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,4,DS Rathi,6,6,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,5,DS Rathi,0,0,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",12,6,DS Rathi,4,4,False,,right,spin,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",13,2,Mohsin Khan,1,1,False,,left,pace,middle
+1529307,2026-05-19,2026,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",13,6,Mohsin Khan,0,0,True,caught,left,pace,middle
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",0,3,DL Chahar,1,1,False,,right,pace,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",1,2,WG Jacks,1,1,False,,right,spin,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",1,6,WG Jacks,0,1,False,,right,spin,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",1,7,WG Jacks,0,0,False,,right,spin,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",2,3,DL Chahar,1,1,False,,right,pace,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",3,1,WG Jacks,0,1,False,,right,spin,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",3,2,WG Jacks,1,1,False,,right,spin,powerplay
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",4,1,DL Chahar,0,0,True,caught,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,3,PJ Cummins,0,0,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,4,PJ Cummins,1,1,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,6,PJ Cummins,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,5,E Malinga,0,0,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,6,E Malinga,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,2,PJ Cummins,4,4,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,3,PJ Cummins,0,1,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,4,PJ Cummins,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,5,PJ Cummins,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,6,PJ Cummins,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,7,PJ Cummins,1,1,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,1,Sakib Hussain,0,0,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,Sakib Hussain,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,Sakib Hussain,0,0,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,4,Sakib Hussain,0,0,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,5,Sakib Hussain,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,6,Sakib Hussain,6,6,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,3,E Malinga,4,4,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,4,E Malinga,1,1,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,6,E Malinga,0,0,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",5,5,PP Hinge,1,1,False,,right,pace,powerplay
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,1,Sakib Hussain,1,1,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,5,Sakib Hussain,4,4,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,6,Sakib Hussain,6,6,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,2,PP Hinge,6,6,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,3,PP Hinge,0,1,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,4,PP Hinge,4,4,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,5,PP Hinge,4,5,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,6,PP Hinge,6,6,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,7,PP Hinge,6,6,False,,right,pace,middle
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,8,PP Hinge,0,0,True,caught,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,2,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,3,Mohammed Siraj,1,1,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,6,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,1,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,2,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,3,Mohammed Siraj,2,2,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,4,Mohammed Siraj,2,2,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,5,Mohammed Siraj,0,5,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,6,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2,7,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,K Rabada,4,4,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,K Rabada,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,4,K Rabada,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,5,K Rabada,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,6,K Rabada,6,6,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,4,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,5,Mohammed Siraj,0,0,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,6,Mohammed Siraj,4,4,False,,right,pace,powerplay
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,1,Washington Sundar,1,1,False,,right,spin,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,3,Washington Sundar,1,1,False,,right,spin,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",6,5,Washington Sundar,1,1,False,,right,spin,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,7,JO Holder,0,0,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",8,4,Rashid Khan,6,6,False,,right,spin,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",8,5,Rashid Khan,1,1,False,,right,spin,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",9,1,JO Holder,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",10,1,M Prasidh Krishna,4,4,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",10,2,M Prasidh Krishna,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",10,6,M Prasidh Krishna,0,0,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",11,6,JO Holder,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,1,M Prasidh Krishna,0,0,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,2,M Prasidh Krishna,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,6,M Prasidh Krishna,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,1,K Rabada,6,6,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,2,K Rabada,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,4,K Rabada,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,1,Mohammed Siraj,6,6,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,2,Mohammed Siraj,2,2,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,3,Mohammed Siraj,1,1,False,,right,pace,middle
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,1,JO Holder,4,4,False,,right,pace,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,2,JO Holder,0,0,False,,right,pace,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,3,JO Holder,6,6,False,,right,pace,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,4,JO Holder,4,4,False,,right,pace,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,5,JO Holder,2,2,False,,right,pace,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",15,6,JO Holder,0,0,False,,right,pace,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,2,Washington Sundar,6,6,False,,right,spin,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,3,Washington Sundar,1,1,False,,right,spin,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,6,Washington Sundar,6,6,False,,right,spin,death
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",17,2,K Rabada,0,0,True,caught,right,pace,death

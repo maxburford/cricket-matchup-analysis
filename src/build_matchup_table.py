@@ -5,6 +5,15 @@ DELIVERIES_PATH = Path("data/processed/suryavanshi_deliveries.csv")
 LOOKUP_PATH = Path("src/bowler_lookup.csv")
 OUT_PATH = Path("data/processed/deliveries_with_style.csv")
 
+def assign_phase(over: int) -> str:
+    """Cricsheet overs are zero-indexed, so over 0 = the 1st over."""
+    if over < 6:
+        return "powerplay"
+    elif over < 15:
+        return "middle"
+    else:
+        return "death"
+
 def main():
     deliveries = pd.read_csv(DELIVERIES_PATH)
     lookup = pd.read_csv(LOOKUP_PATH)
@@ -16,6 +25,8 @@ def main():
         return
 
     merged = deliveries.merge(lookup, on="bowler", how="left")
+
+    merged["phase"] = merged["over"].apply(assign_phase)
 
     unmapped = merged[merged["bowl_type"].isna()]["bowler"].unique()
     if len(unmapped) > 0:
