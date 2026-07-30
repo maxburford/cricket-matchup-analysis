@@ -32,6 +32,17 @@ more specific and better-supported finding than the spin narrative, and
 fits a plausible tactical read: powerplay fielding restrictions let him
 free-swing, middle overs is where set fields make him work for it.
 
+
+
+**Kohli shows a clear, statistically separated advantage against spin.**
+25.7 balls per dismissal against pace vs 47.2 against spin, with
+non-overlapping 95% confidence intervals (22.0-30.8 vs 36.4-65.3), built on
+135 and 47 dismissal events respectively. Unlike Suryavanshi's numbers,
+this pattern held stable as bowler-style coverage improved from 30% to 80%
+of his total sample, which is a good sign it reflects something real
+rather than a labeling artifact.
+
+
 **Williamson sits between the other two: real signal, but not as clean as
 Kohli's.** 25.2 balls per dismissal against pace vs 41.7 against spin,
 built on 40 and 16 dismissal events respectively. The confidence intervals
@@ -43,14 +54,6 @@ analysis can show: no detectable signal (Suryavanshi), moderate signal
 (Williamson), and strong signal (Kohli) — a useful reminder that
 "vulnerable to X" is a claim with a confidence level, not a fact you
 either have or don't.
-
-**Kohli shows a clear, statistically separated advantage against spin.**
-25.7 balls per dismissal against pace vs 47.2 against spin, with
-non-overlapping 95% confidence intervals (22.0-30.8 vs 36.4-65.3), built on
-135 and 47 dismissal events respectively. Unlike Suryavanshi's numbers,
-this pattern held stable as bowler-style coverage improved from 30% to 80%
-of his total sample, which is a good sign it reflects something real
-rather than a labeling artifact.
 
 ![Pace vs spin comparison across all three players](charts/pace_vs_spin_comparison.png)
 ![Suryavanshi phase breakdown](charts/suryavanshi_phase.png)
