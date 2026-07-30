@@ -5,9 +5,9 @@ they perform against pace vs spin, and across phases of an innings — using
 bootstrapped confidence intervals instead of raw point estimates, so small
 samples don't get reported as if they were certainties.
 
-Built and tested on two players at opposite ends of the sample-size
-spectrum: Vaibhav Suryavanshi (23 IPL matches, 2025-2026) and Virat Kohli
-(275 IPL matches, 2008-2026).
+Built and tested on three players spanning very different sample sizes:
+Vaibhav Suryavanshi (23 matches, 2025-2026), Kane Williamson (76 matches,
+2017-2026), and Virat Kohli (275 matches, 2008-2026).
 
 ## Why this exists
 
@@ -32,6 +32,18 @@ more specific and better-supported finding than the spin narrative, and
 fits a plausible tactical read: powerplay fielding restrictions let him
 free-swing, middle overs is where set fields make him work for it.
 
+**Williamson sits between the other two: real signal, but not as clean as
+Kohli's.** 25.2 balls per dismissal against pace vs 41.7 against spin,
+built on 40 and 16 dismissal events respectively. The confidence intervals
+(19.1-34.8 vs 27.8-74.0) overlap only slightly at the edges, which is a
+meaningfully stronger separation than Suryavanshi's near-total overlap,
+though not as decisive as Kohli's fully non-overlapping ranges. Taken
+together, the three players span the full range of what this kind of
+analysis can show: no detectable signal (Suryavanshi), moderate signal
+(Williamson), and strong signal (Kohli) — a useful reminder that
+"vulnerable to X" is a claim with a confidence level, not a fact you
+either have or don't.
+
 **Kohli shows a clear, statistically separated advantage against spin.**
 25.7 balls per dismissal against pace vs 47.2 against spin, with
 non-overlapping 95% confidence intervals (22.0-30.8 vs 36.4-65.3), built on
@@ -40,16 +52,17 @@ this pattern held stable as bowler-style coverage improved from 30% to 80%
 of his total sample, which is a good sign it reflects something real
 rather than a labeling artifact.
 
-![Pace vs spin comparison](charts/pace_vs_spin_comparison.png)
+![Pace vs spin comparison across all three players](charts/pace_vs_spin_comparison.png)
 ![Suryavanshi phase breakdown](charts/suryavanshi_phase.png)
 
 ## Method
 
 - Ball-by-ball data from [Cricsheet](https://cricsheet.org), IPL 2008-2026
 - Bowler style (arm, pace/spin) hand-mapped from public profiles, covering
-  bowlers responsible for ~80%+ of each player's total deliveries faced by
-  volume; the remaining long tail (individually under 30 balls each) is
-  excluded and not counted toward any statistic
+  each player's most-faced bowlers by volume (72.5%-96.7% of total
+  deliveries depending on career length); the remaining long tail
+  (individually under ~30 balls each) is excluded and not counted toward
+  any statistic
 - Dismissal rates estimated via bootstrap resampling (10,000 resamples,
   95% CI from the 2.5th/97.5th percentiles) rather than reported as single
   point estimates
@@ -115,6 +128,7 @@ dropping them.
   dismissal location
 - Bowler style mapping is manual and incomplete by design (see Method); a
   small number of infrequent bowlers per player are excluded
-- Suryavanshi's sample (23 matches) is genuinely small; several confidence
-  intervals in this repo are wide enough that "no significant difference"
-  is the honest conclusion, not a limitation of the method
+- Sample sizes vary enormously by player (23 to 275 matches); several
+  confidence intervals in this repo are wide enough that "no significant
+  difference" is the honest conclusion for some players, not a limitation
+  of the method itself
