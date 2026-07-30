@@ -1,9 +1,9 @@
+import argparse
 import json
 import pandas as pd
 from pathlib import Path
 
 RAW_DIR = Path("data/raw/ipl_json")
-PLAYER_ID = "470f446b"
 
 def load_match(filepath: Path) -> dict:
     with open(filepath, encoding="utf-8") as f:
@@ -64,16 +64,25 @@ def extract_deliveries_for_player(match: dict, filepath: Path, player_id: str) -
     return rows
 
 def main():
+    parser = argparse.ArgumentParser(description="Extract a player's ball-by-ball deliveries from Cricsheet IPL data.")
+    parser.add_argument("--player-id", required=True, help="Cricsheet identifier, e.g. 470f446b")
+    parser.add_argument("--name", required=True, help="Short name used for the output filename, e.g. kohli")
+    args = parser.parse_args()
+
     all_rows = []
-    for filepath in sorted(RAW_DIR.glob("*.json")):
+    files = sorted(RAW_DIR.glob("*.json"))
+    print(f"Scanning {len(files)} match files...")
+    for i, filepath in enumerate(files):
+        if i % 200 == 0:
+            print(f"  {i}/{len(files)}")
         match = load_match(filepath)
         people = match.get("info", {}).get("registry", {}).get("people", {})
-        if PLAYER_ID not in people.values():
+        if args.player_id not in people.values():
             continue
-        all_rows.extend(extract_deliveries_for_player(match, filepath, PLAYER_ID))
+        all_rows.extend(extract_deliveries_for_player(match, filepath, args.player_id))
 
     df = pd.DataFrame(all_rows)
-    out_path = Path("data/processed/suryavanshi_deliveries.csv")
+    out_path = Path(f"data/processed/{args.name}_deliveries.csv")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(out_path, index=False)
     print(f"Extracted {len(df)} deliveries faced across {df['match_id'].nunique()} matches")
