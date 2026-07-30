@@ -1,11 +1,15 @@
+import argparse
 import pandas as pd
 from pathlib import Path
 
-DATA_PATH = Path("data/processed/kohli_with_style.csv")
 LOOKUP_PATH = Path("src/bowler_lookup.csv")
 
 def main():
-    deliveries = pd.read_csv(DATA_PATH)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--name", required=True)
+    args = parser.parse_args()
+
+    deliveries = pd.read_csv(f"data/processed/{args.name}_with_style.csv")
     lookup = pd.read_csv(LOOKUP_PATH)
 
     unmapped = deliveries[~deliveries["bowler"].isin(lookup["bowler"])]

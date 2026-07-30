@@ -10,6 +10,7 @@ OUT_DIR.mkdir(exist_ok=True)
 PLAYERS = {
     "suryavanshi": "V Suryavanshi (2025-2026, 23 matches)",
     "kohli": "V Kohli (2008-2026, 275 matches)",
+    "williamson": "K Williamson (2017-2026, 76 matches)",
 }
 
 def get_ci_for_bowl_type(name: str, bowl_type: str):
